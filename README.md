@@ -160,7 +160,7 @@ The **SkyScope** project leverages Plotly to deliver engaging, interactive visua
 These visualizations offer detailed insights into weather data, transforming forecasts into actionable intelligence for better decision-making.
 
 ## Dashboard Functionality Demonstration
-Watch the video to see the dashboard in action: (https://github.com/SHAIMOOM251283/SkyScope/blob/main/DashboardScreencast.mp4)
+Watch the video to see the dashboard in action: [Dashboard Screencast](https://github.com/SHAIMOOM251283/SkyScope/blob/main/DashboardScreencast.mp4)
 
 ## Project Highlights  
 
