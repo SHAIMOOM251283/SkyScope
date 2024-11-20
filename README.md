@@ -4,11 +4,11 @@
 
 **SkyScope** is a Python-based project designed to provide weather-related data insights, visualizations, and dashboards. It consists of three independent scripts:
 
-1. **clime_cast.py**: Fetches weather forecast data.
+1. **clime_cast.py**: Fetches weather forecast data and prints the extracted data to the terminal.
 2. **clime_charts.py**: Visualizes the forecast data using Plotly for interactive charts.
 3. **skyscope_dashboard.py**: A dashboard that combines the functionalities of the other two scripts to provide a dynamic user interface for displaying weather data and visualizations.
 
-Each script is modular and can be used independently, but together they form a comprehensive tool for exploring weather forecasts and presenting them in a visually appealing way.
+Each script is modular and can be used independently, offering flexible solutions for exploring and presenting weather forecasts.
 
 ## Features
 
