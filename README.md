@@ -134,33 +134,42 @@ The dashboard will open in your default web browser, where you can interact with
 The **SkyScope** project leverages Plotly to deliver engaging, interactive visualizations that enhance the exploration of weather data:
 
 1. **Bar Chart for Temperature and Humidity**  
-   Grouped bar chart visualizing the comparison between daily temperature (°C) and humidity (%) over the next three days, showcasing variations in key weather metrics.  
+   Grouped bar chart visualizing the comparison between daily temperature (°C) and humidity (%) over the next three days, showcasing variations in key weather metrics.
+   ![Bar Chart](https://github.com/SHAIMOOM251283/SkyScope/blob/main/BarChart.png)
 
 2. **Pie Chart for Weather Conditions**  
-   Pie chart illustrating the breakdown of different weather conditions—clear skies, rain, or clouds—predicted for the next three days.  
+   Pie chart illustrating the breakdown of different weather conditions—clear skies, rain, or clouds—predicted for the next three days.
+   ![Pie Chart](https://github.com/SHAIMOOM251283/SkyScope/blob/main/PieChart.png)
 
 3. **Gauge Chart for Humidity Levels**  
-   Gauge chart providing a quick, intuitive display of the current humidity percentage, offering a snapshot of atmospheric moisture.  
+   Gauge chart providing a quick, intuitive display of the current humidity percentage, offering a snapshot of atmospheric moisture.
+   ![Gauge Chart](https://github.com/SHAIMOOM251283/SkyScope/blob/main/GaugeChart.png)  
 
 4. **Box Plot for Temperature Variability**  
-   Box plot highlighting temperature variability over the next three days, focusing on the range, median, and potential extremes to uncover trends and patterns.  
+   Box plot highlighting temperature variability over the next three days, focusing on the range, median, and potential extremes to uncover trends and patterns.
+   ![Box Plot](https://github.com/SHAIMOOM251283/SkyScope/blob/main/BoxPlot.png)
 
 5. **Heatmap for Temperature and Humidity**  
-   Heatmap visualizing temperature and humidity data for each day, using color intensity to show their magnitudes and provide a comparative view.  
+   Heatmap visualizing temperature and humidity data for each day, using color intensity to show their magnitudes and provide a comparative view.
+   ![Heatmap](https://github.com/SHAIMOOM251283/SkyScope/blob/main/HeatMap.png)
 
 6. **Polar Bar Chart for Wind Speed and Direction**  
-   Polar bar chart depicting wind speed and its directional distribution over the next three days, offering a clear understanding of wind patterns.  
+   Polar bar chart depicting wind speed and its directional distribution over the next three days, offering a clear understanding of wind patterns.
+   ![Polar Bar Chart](https://github.com/SHAIMOOM251283/SkyScope/blob/main/PolarBarChart.png)
 
 7. **Line Chart for Atmospheric Pressure**  
-   Line chart illustrating atmospheric pressure (hPa) trends across the next three days, with markers and smooth curves for enhanced clarity.  
+   Line chart illustrating atmospheric pressure (hPa) trends across the next three days, with markers and smooth curves for enhanced clarity.
+   ![Line Chart](https://github.com/SHAIMOOM251283/SkyScope/blob/main/LineChart.png)
 
 8. **Combined Chart for Precipitation Probability and Temperature**  
-   Dual-axis chart overlaying precipitation probability (bars) and temperature (line), providing a comprehensive view of their relationship over the next three days.  
+   Dual-axis chart overlaying precipitation probability (bars) and temperature (line), providing a comprehensive view of their relationship over the next three days.
+   ![Dual Axis Chart](https://github.com/SHAIMOOM251283/SkyScope/blob/main/DualAxisChart.png)
 
 These visualizations offer detailed insights into weather data, transforming forecasts into actionable intelligence for better decision-making.
 
 ## Dashboard Functionality Demonstration
-Watch the video to see the dashboard in action: [Dashboard Screencast](https://github.com/SHAIMOOM251283/SkyScope/blob/main/DashboardScreencast.mp4)
+Watch the video to see the dashboard in action: 
+[![Watch the Dashboard Functionality Screencast](https://img.shields.io/badge/Watch%20Video-Click%20Here-blue)](https://github.com/SHAIMOOM251283/SkyScope/blob/main/DashboardScreencast.mp4)
 
 ## Project Highlights  
 
